@@ -535,9 +535,9 @@ This project is for educational purposes.
 ## 👨‍💻 Developer
 
 **Deepak Dey**
-- GitHub: [@deepakdey412](https://github.com/deepakdey412)
-- LinkedIn: [deepakdey](https://www.linkedin.com/in/deepakdey/)
-- Instagram: [@deepax.dev](https://www.instagram.com/deepax.dev)
+- GitHub: [@RAVIKUMARISHWAR03](https://github.com/deepakdey412)
+- LinkedIn: [RAVIKUMARISHWAR](https://www.linkedin.com/in/deepakdey/)
+- Instagram: [@hitmanravi5](https://www.instagram.com/deepax.dev)
 
 ---
 

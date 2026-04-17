@@ -33,7 +33,7 @@ public class AuthService {
     public AuthResponse signUp(SignUpRequest request) {
         System.out.println("Entered into Signup");
         if (request.getEmail() == null || request.getEmail().trim().isEmpty()) {
-            throw new RuntimeException("Email is required");
+            throw new RuntimeException("Email is required ");
         }
         if (request.getPassword() == null || request.getPassword().trim().isEmpty()) {
             throw new RuntimeException("Password is required");

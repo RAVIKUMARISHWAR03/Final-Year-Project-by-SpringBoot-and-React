@@ -7,6 +7,7 @@ const analysisService = {
     return response.data;
   },
 
+  
   // GET /api/analysis/resume/{resumeId}/top/{topN}
   getTopMatches: async (resumeId, topN = 5) => {
     const response = await axiosInstance.get(`/api/analysis/resume/${resumeId}/top/${topN}`);

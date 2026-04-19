@@ -101,12 +101,14 @@ ehthumbs.db
 Thumbs.db
 Desktop.ini
 
+
 # Temporary Files
 *.tmp
 *.temp
 *.bak
 *.swp
 *~.nib
+
 
 # Security & Sensitive Data
 *.key

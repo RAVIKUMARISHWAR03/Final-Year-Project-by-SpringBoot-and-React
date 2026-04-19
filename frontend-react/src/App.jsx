@@ -14,7 +14,7 @@ import ResumeGeneratorPage from './pages/ResumeGeneratorPage';
 import FeedbackPage from './pages/FeedbackPage';
 import AdminPage from './pages/AdminPage';
 
-// Components
+// Components 
 import Navbar from './components/Navbar';
 
 function AppContent() {

@@ -12,6 +12,7 @@ const AdminPage = () => {
   const user = authService.getCurrentUser();
   const isAdmin = user?.email === 'admin@gmail.com';
 
+  
   useEffect(() => {
     if (isAdmin) {
       if (activeTab === 'dashboard') {
@@ -21,6 +22,7 @@ const AdminPage = () => {
       }
     }
   }, [isAdmin, activeTab]);
+  
 
   const fetchDashboard = async () => {
     try {

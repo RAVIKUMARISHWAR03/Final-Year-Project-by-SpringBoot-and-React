@@ -12,7 +12,7 @@ const Navbar = () => {
     // Force page reload to clear all state
     window.location.href = '/login';
   };
-
+  
   return (
     <BootstrapNavbar expand="lg" className="mb-4" style={{ backgroundColor: '#2563EB' }}>
       <Container>
